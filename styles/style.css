@@ -15,10 +15,8 @@
 }
 
 .header__link {
-  text-decoration: underline;
-  text-underline-offset: 2px;
+  text-underline-offset: 2.5px;
   text-decoration-thickness: 1px;
-  margin-top: -1px;
 }
 
 .header__links-list-item_no-bullit {
@@ -39,7 +37,6 @@
 }
 
 .address-link {
-  text-decoration: underline;
   text-underline-offset: 2.5px;
   text-decoration-thickness: 1px;
 }
@@ -193,7 +190,6 @@
   padding-left: 40px;
   font-weight: 400;
   font-size: 20px;
-  text-decoration: underline;
   text-underline-offset: 4.5px;
   text-decoration-thickness: 1px;
 }
@@ -263,7 +259,6 @@
 .footer__menu-link {
   text-align: center;
   font-size: 18px;
-  text-decoration: underline;
   text-underline-offset: 3.5px;
   text-decoration-thickness: 1px;
 }
