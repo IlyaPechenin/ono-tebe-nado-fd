@@ -85,12 +85,12 @@
   
 }
 
-.aligned-text_center {
+.aligned-text-center {
   text-align: center;
   margin-right: -30px;
 }
 
-.aligned-text_right {
+.aligned-text-right {
   text-align: right;
   margin-right: -30px;
 }
